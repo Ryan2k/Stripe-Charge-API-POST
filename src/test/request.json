@@ -1,0 +1,10 @@
+{
+  "charge": {
+    "amount": 2000,
+    "currency": "USD",
+    "source": "tok_amex",
+    "description": "My First Test Charge (created for API docs)"
+  },
+  "key": "Bearer sk_test_4eC39HqLyjWDarjtT1zdp7dc",
+  "url": "https://api.stripe.com/v1/charges"
+}
